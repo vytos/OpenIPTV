@@ -15,6 +15,18 @@ For the best viewing experience, consider using the following IPTV players:
 - **[IPTV Smarters](https://www.iptvsmarters.com/)**: A popular choice for managing and streaming IPTV content.
 - **[IPTVnator](https://github.com/4gray/iptvnator)**: A flexible tool for handling IPTV playlists.
 
+## Popular Channels Included
+
+This playlist includes a variety of popular channels, such as:
+
+- **CNN International** – Global news coverage.
+- **BBC One** – General entertainment and news.
+- **MTV** – Music and entertainment.
+- **National Geographic** – Documentaries and educational content.
+- **HBO** – Premium movies and series.
+- **Cartoon Network** – Kids' programming.
+- **France 24** – International news.
+
 ## How to Use
 
 1. **Copy the Playlist URL**: [https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)
