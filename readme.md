@@ -1,20 +1,20 @@
 # Comprehensive Free IPTV Playlist
 
-Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **30,000 channels** from across the globe, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
+Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **30,000 channels**, including **1,166 Pluto TV channels**, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
 
-> **Note**: We are currently working on adding **Pluto TV** channels, which will further expand the content selection. Stay tuned for updates!
+> **Note**: We are continuously updating the playlist with more channels. Stay tuned for further expansions!
 
 ## Access the Playlist
 
 To access the full selection of channels, use the following link in your IPTV player:
 
-**[IPTV Playlist (Over 30,000 Channels)](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)**
+**[IPTV Playlist (Over 30,000 Channels, Including 1,166 Pluto TV Channels)](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)**
 
 ## Why IPTV?
 
 IPTV (Internet Protocol Television) is an increasingly popular way to watch live TV and on-demand content over the internet. Unlike traditional cable or satellite TV, IPTV allows you to access channels using an internet connection, making it more flexible and easier to customize. Here are a few benefits of using IPTV:
 
-- **Variety**: With over 30,000 channels, you have access to a huge range of content, from international news to music, movies, documentaries, sports, and more.
+- **Variety**: With over 30,000 channels, including 1,166 Pluto TV channels, you have access to a huge range of content, from international news to music, movies, documentaries, sports, and more.
 - **Convenience**: IPTV allows you to stream your favorite content anytime, anywhere, as long as you have an internet connection.
 - **Customization**: Many IPTV players offer features such as favorites lists, channel grouping, and recording options.
 - **Cost-Effective**: In many cases, IPTV offers a more affordable alternative to traditional cable subscriptions, with more content available at your fingertips.
@@ -36,6 +36,7 @@ This playlist covers a wide variety of genres and categories to cater to all int
 - **Kids' Programming**: Access channels offering cartoons and educational shows for children.
 - **Movies and Series**: Enjoy channels broadcasting popular movies and TV series from various regions.
 - **Music and Entertainment**: Stream music channels and entertainment shows featuring the latest trends in pop culture.
+- **Pluto TV Channels**: Enjoy a diverse array of Pluto TV content, including movies, TV shows, and niche entertainment across multiple genres.
 
 ## How to Use the Playlist
 
@@ -62,7 +63,7 @@ If you encounter issues with the playlist, consider the following tips:
 
 ## Playlist Maintenance
 
-The playlist is regularly updated to provide the best selection of channels. However, due to the large number of channels and the nature of IPTV, occasional issues with channel availability may occur. **We are currently in the process of adding more channels, including Pluto TV channels**, so check back periodically for updates and improvements.
+The playlist is regularly updated to provide the best selection of channels. **We are continuously working on adding more channels and improving the playlist**, including recent additions from Pluto TV. Check back periodically for updates and improvements.
 
 ---
 
@@ -74,6 +75,9 @@ A: Channels can sometimes be temporarily offline. Try refreshing the playlist or
 **Q: Do I need an EPG (Electronic Program Guide)?**  
 A: No, while an EPG enhances the viewing experience, it is not mandatory for using the playlist.
 
+**Q: Can I use this playlist on mobile devices?**  
+A: Yes, you can use this playlist on mobile devices that support IPTV players.
+
 ---
 
 ## Contributing
@@ -83,6 +87,8 @@ If you have additional channels or playlists that you think would benefit this r
 ---
 
 ## Changelog
+
+**v1.1**: Added 1,166 Pluto TV channels  
 **v1.0**: Initial playlist release
 
 ---
