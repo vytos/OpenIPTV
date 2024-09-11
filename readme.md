@@ -74,9 +74,6 @@ A: Channels can sometimes be temporarily offline. Try refreshing the playlist or
 **Q: Do I need an EPG (Electronic Program Guide)?**  
 A: No, while an EPG enhances the viewing experience, it is not mandatory for using the playlist.
 
-**Q: Can I use this playlist on mobile devices?**  
-A: Yes, you can use this playlist on mobile devices that support IPTV players like IPTV Smarters or IPTVnator.
-
 ---
 
 ## Contributing
@@ -86,9 +83,7 @@ If you have additional channels or playlists that you think would benefit this r
 ---
 
 ## Changelog
-
-**v1.1**: Added Pluto TV channels (Date: mm/dd/yyyy)  
-**v1.0**: Initial playlist release (Date: mm/dd/yyyy)
+**v1.0**: Initial playlist release
 
 ---
 
