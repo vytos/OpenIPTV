@@ -2,6 +2,8 @@
 
 Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **30,000 channels** from across the globe, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
 
+> **Note**: We are currently working on adding **Pluto TV** channels, which will further expand the content selection. Stay tuned for updates!
+
 ## Access the Playlist
 
 To access the full selection of channels, use the following link in your IPTV player:
@@ -22,20 +24,18 @@ IPTV (Internet Protocol Television) is an increasingly popular way to watch live
 For the best viewing experience, we recommend using one of the following IPTV players:
 
 - **[IPTV Smarters](https://www.iptvsmarters.com/)**: A user-friendly app for managing and streaming IPTV playlists. It supports multiple formats and is available on various devices.
-- **[IPTVnator](https://github.com/4gray/iptvnator)**: A modern IPTV player with a sleek interface, perfect for managing large channel lists and EPG (Electronic Program Guide) data.
-- **[MyIPTV Player](https://www.microsoft.com/store/apps/9pjj2nmbf0tr)**: A highly-rated media player for Windows users, offering features like EPG support, channel recording, and VLC integration for smooth playback.
+- **[IPTVnator](https://github.com/4gray/iptvnator)**: A modern IPTV player with a sleek interface, perfect for managing large channel lists.
+- **[MyIPTV Player](https://www.microsoft.com/store/apps/9pjj2nmbf0tr)**: A highly-rated media player for Windows users, offering features like channel recording and VLC integration for smooth playback.
 
 ## Example Content Included
 
 This playlist covers a wide variety of genres and categories to cater to all interests:
 
-- **International News**: Stay up to date with the latest news from around the world with a selection of news channels.
-- **Documentaries and Educational Content**: Explore a wide array of nature, science, and educational programming.
-- **Kids' Programming**: A variety of channels offering cartoons and educational shows for children.
-- **Movies and Series**: Enjoy access to channels that broadcast popular movies and TV series from various regions.
+- **International News**: Stay up to date with the latest news from around the world.
+- **Documentaries and Educational Content**: Explore a range of nature, science, and educational programming.
+- **Kids' Programming**: Access channels offering cartoons and educational shows for children.
+- **Movies and Series**: Enjoy channels broadcasting popular movies and TV series from various regions.
 - **Music and Entertainment**: Stream music channels and entertainment shows featuring the latest trends in pop culture.
-  
-Please note that the playlist is not affiliated with any specific content providers. This is a curated list of publicly available channels, and the playlist is regularly updated to provide the best selection.
 
 ## How to Use the Playlist
 
@@ -48,14 +48,53 @@ Please note that the playlist is not affiliated with any specific content provid
 
 Many IPTV players offer additional features to enhance your viewing experience:
 
-- **Favorites Management**: Organize your preferred channels into a favorites list for quick access.
-- **Channel Recording**: Some players support recording live channels so you can watch later at your convenience.
-- **Electronic Program Guide (EPG)**: A built-in EPG allows you to see what’s currently airing and what’s coming up next.
-- **Video on Demand (VOD)**: Certain players offer access to on-demand content, letting you watch movies and shows anytime.
+- **Favorites Management**: Create and manage a favorites list to easily access your preferred channels. In most players, you can add channels to favorites by selecting the star icon or similar option next to the channel name.
+- **Channel Recording**: Record live channels to watch later. Check the player’s settings for recording options, and ensure you have sufficient storage space.
+- **Video on Demand (VOD)**: Access on-demand content, allowing you to watch movies and shows anytime. Look for a “VOD” or “On Demand” section in your player.
 
-## Legal Disclaimer
+## Troubleshooting
 
-This playlist is a collection of publicly available IPTV channels. We do not host or distribute any channels, and we are not affiliated with any of the channel providers. Users are responsible for ensuring that their use of this playlist complies with all applicable laws in their country. No IPTV channels or streaming URLs are provided by this repository.
+If you encounter issues with the playlist, consider the following tips:
+
+- **Channels Not Loading**: Ensure your internet connection is stable. Try reloading the playlist or restarting your IPTV player.
+- **Slow Loading Times**: Clear the cache or temporary files in your IPTV player settings.
+- **Channel Availability Issues**: Some channels may be temporarily unavailable. Try refreshing the playlist or checking for updates.
+
+## Playlist Maintenance
+
+The playlist is regularly updated to provide the best selection of channels. However, due to the large number of channels and the nature of IPTV, occasional issues with channel availability may occur. **We are currently in the process of adding more channels, including Pluto TV channels**, so check back periodically for updates and improvements.
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+**Q: What if a channel doesn't work?**  
+A: Channels can sometimes be temporarily offline. Try refreshing the playlist or waiting a few minutes before attempting again.
+
+**Q: Do I need an EPG (Electronic Program Guide)?**  
+A: No, while an EPG enhances the viewing experience, it is not mandatory for using the playlist.
+
+**Q: Can I use this playlist on mobile devices?**  
+A: Yes, you can use this playlist on mobile devices that support IPTV players like IPTV Smarters or IPTVnator.
+
+---
+
+## Contributing
+
+If you have additional channels or playlists that you think would benefit this repository, feel free to submit a pull request. Be sure to provide channel links that are publicly available and compliant with IPTV laws.
+
+---
+
+## Changelog
+
+**v1.1**: Added Pluto TV channels (Date: mm/dd/yyyy)  
+**v1.0**: Initial playlist release (Date: mm/dd/yyyy)
+
+---
+
+## Privacy and Disclaimer
+
+We do not collect any personal data. Users are responsible for ensuring they comply with their country's copyright and streaming regulations. This playlist is a collection of publicly available IPTV channels, and we are not affiliated with any of the channel providers. Users are responsible for their own use of this playlist.
 
 ---
 
