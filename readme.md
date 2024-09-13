@@ -8,7 +8,7 @@ Welcome to the ultimate free IPTV playlist repository! This repository offers a 
 
 To access the full selection of channels, use the following link in your IPTV player:
 
-**[IPTV Playlist (Over 32,685 Channels, Including 1,166 Pluto TV Channels)](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)**
+**[IPTV Playlist (Over 32,685 Channels, Including 1,166 Pluto TV Channels)](https://raw.githubusercontent.com/vytos/OpenIPTV/main/main.m3u)**
 
 ## Why IPTV?
 
@@ -39,7 +39,7 @@ This playlist covers a wide variety of genres and categories to cater to all int
 
 ## How to Use the Playlist
 
-1. **Copy the Playlist URL**: [https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)
+1. **Copy the Playlist URL**: [https://raw.githubusercontent.com/vytos/OpenIPTV/main/main.m3u](https://raw.githubusercontent.com/vytos/OpenIPTV/main/main.m3u)
 2. **Open Your IPTV Player**: Launch one of the recommended players or any other IPTV player that supports `.m3u` files.
 3. **Paste the URL**: Paste the playlist link into the player's input field for loading remote playlists.
 4. **Browse the Channels**: Once loaded, you can browse through the channels, add them to your favorites, and start streaming.
@@ -96,6 +96,7 @@ If you have additional channels or playlists that you think would benefit this r
 **v1.0**: 
 - Initial playlist release with over 30,000 channels, including a broad selection of news, sports, movies, and more.
 
+---
 
 ## Privacy and Disclaimer
 
@@ -107,7 +108,7 @@ We do not collect any personal data. Users are responsible for ensuring they com
 
 ## Support
 
-If you have any issues or questions, feel free to [open an issue](https://github.com/vytos/iptv-free/issues) on this repository. We're here to help!
+If you have any issues or questions, feel free to [open an issue](https://github.com/vytos/OpenIPTV/issues) on this repository. We're here to help!
 
 ---
 
