@@ -1,6 +1,6 @@
 # Comprehensive Free IPTV Playlist
 
-Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **30,000 channels**, including **1,166 Pluto TV channels**, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
+Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **32,685 channels**, including **1,166 Pluto TV channels**, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
 
 > **Note**: We are continuously updating the playlist with more channels. Stay tuned for further expansions!
 
@@ -8,13 +8,13 @@ Welcome to the ultimate free IPTV playlist repository! This repository offers a 
 
 To access the full selection of channels, use the following link in your IPTV player:
 
-**[IPTV Playlist (Over 30,000 Channels, Including 1,166 Pluto TV Channels)](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)**
+**[IPTV Playlist (Over 32,685 Channels, Including 1,166 Pluto TV Channels)](https://raw.githubusercontent.com/vytos/iptv-free/main/main.m3u)**
 
 ## Why IPTV?
 
 IPTV (Internet Protocol Television) is an increasingly popular way to watch live TV and on-demand content over the internet. Unlike traditional cable or satellite TV, IPTV allows you to access channels using an internet connection, making it more flexible and easier to customize. Here are a few benefits of using IPTV:
 
-- **Variety**: With over 30,000 channels, including 1,166 Pluto TV channels, you have access to a huge range of content, from international news to music, movies, documentaries, sports, and more.
+- **Variety**: With over 32,685 channels, including 1,166 Pluto TV channels, you have access to a huge range of content, from international news to music, movies, documentaries, sports, and more.
 - **Convenience**: IPTV allows you to stream your favorite content anytime, anywhere, as long as you have an internet connection.
 - **Customization**: Many IPTV players offer features such as favorites lists, channel grouping, and recording options.
 - **Cost-Effective**: In many cases, IPTV offers a more affordable alternative to traditional cable subscriptions, with more content available at your fingertips.
@@ -25,6 +25,7 @@ For the best viewing experience, we recommend using one of the following IPTV pl
 
 - **[IPTV Smarters](https://www.iptvsmarters.com/)**: A user-friendly app for managing and streaming IPTV playlists. It supports multiple formats and is available on various devices.
 - **[IPTVnator](https://github.com/4gray/iptvnator)**: A modern IPTV player with a sleek interface, perfect for managing large channel lists.
+
 ## Example Content Included
 
 This playlist covers a wide variety of genres and categories to cater to all interests:
