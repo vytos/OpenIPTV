@@ -87,11 +87,15 @@ If you have additional channels or playlists that you think would benefit this r
 
 ## Changelog
 
-**v1.2**: Added about 1000-2000 channels from a lot of countries 
-**v1.1**: Added 1,166 Pluto TV channels  
-**v1.0**: Initial playlist release
+**v1.2**: 
+- Added approximately 1,000-2,000 new channels from a variety of countries, expanding international content.
 
----
+**v1.1**: 
+- Added 1,166 Pluto TV channels, enhancing the variety of entertainment options.
+
+**v1.0**: 
+- Initial playlist release with over 30,000 channels, including a broad selection of news, sports, movies, and more.
+
 
 ## Privacy and Disclaimer
 
