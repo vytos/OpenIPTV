@@ -25,8 +25,6 @@ For the best viewing experience, we recommend using one of the following IPTV pl
 
 - **[IPTV Smarters](https://www.iptvsmarters.com/)**: A user-friendly app for managing and streaming IPTV playlists. It supports multiple formats and is available on various devices.
 - **[IPTVnator](https://github.com/4gray/iptvnator)**: A modern IPTV player with a sleek interface, perfect for managing large channel lists.
-- **[MyIPTV Player](https://www.microsoft.com/store/apps/9pjj2nmbf0tr)**: A highly-rated media player for Windows users, offering features like channel recording and VLC integration for smooth playback.
-
 ## Example Content Included
 
 This playlist covers a wide variety of genres and categories to cater to all interests:
