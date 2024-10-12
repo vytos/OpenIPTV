@@ -1,4 +1,4 @@
-# Comprehensive Free IPTV Playlist
+# OpenIPTV 
 
 Welcome to the ultimate free IPTV playlist repository! This repository offers a massive collection of over **32,685 channels**, including **1,166 Pluto TV channels**, all available in a convenient `.m3u` format. Whether you're looking for news, entertainment, sports, documentaries, or kids' programming, this playlist has something for everyone.
 
